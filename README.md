@@ -9,9 +9,11 @@ OS: Windows 11.
 Python 3.12+
 
 # Installation
-Step 1: Download the .zip file on the releases page, the latest version is recommended.
-Step 2: Run "installer.bat" to install all required plugins.
-Step 3: Unfinished.
+BEFORE READING THESE LOOK AT THE INFORMATION BELOW!
+Step 1: Download the .zip file on the releases page (, the latest version is recommended.
+Step 2: Extract the .zip into any folder you desire.
+Step 3: Run "installer.bat" to install required python dependencies.
+Step 4: Run the MAIN.py to open the program.
 
 # Information
 This program will always be open-source.
