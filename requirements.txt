@@ -1,4 +1,1 @@
-time
-getpass
-sys
 psutil
