@@ -16,4 +16,5 @@ Step 3: Unfinished.
 # Information
 This program will always be open-source.
 Created and tested on Windows 11. I can't guarantee it works on other OS's. 
+!WARNING! It is recommended to not run this in Visual Studio Code as this is a terminal based program.
 
