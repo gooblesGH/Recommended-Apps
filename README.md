@@ -1,6 +1,9 @@
 # Recommended-Apps
 This program was created to show users the best apps for their PC!
 
+# Releases
+https://github.com/gooblesGH/Recommended-Apps/releases
+
 # Data Collection
 No data is collected when you run this program.
 
