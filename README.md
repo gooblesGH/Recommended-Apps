@@ -1,7 +1,9 @@
 # Recommended-Apps
 This program was created to show users the best apps for their PC!
+<img width="643" height="333" alt="Group 1" src="https://github.com/user-attachments/assets/114698f5-fb75-457f-95f2-d108dadbde4f" />
 
 # Releases
+
 https://github.com/gooblesGH/Recommended-Apps/releases
 
 # Data Collection
